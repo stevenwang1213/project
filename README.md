@@ -156,20 +156,10 @@ Also,The impact on sector etfs is analyzed by examining the price movements of e
 
 ## About the team <a name="about"></a>
 
-<img src="pics/IMG_1966.JPG" alt="julio" width="300"/>
-<br>
-Sikai is a student in Lehigh University majoring in Finance and Business Analytics. I’ve always been fascinated by the world of finance and the role it plays in shaping our economy, which leads me to join IMG and participate in the Analyst Development Program.
-<br><br><br>
 <img src="pics/IMG_1967.JPG" alt="don" width="300"/>
 <br>
 Sz-Je Wang is a highly motivated Finance and Business Analytics major with a FinTech minor at Lehigh University, expecting to graduate in May 2024. My academic journey has been fueled by a strong passion for understanding the intricacies of financial markets. 
 <br>
-<img src="pics/IMG_0457.JPG" alt="don" width="300"/>
+<img src="pics/Sz-An.jpg" alt="don" width="300"/>
 <br>
-Xilong Liu is a student at Lehigh University majoring Finance and Consulting Management. I am a passion buisness student who is pursing use data and insight to solve finance problem
-
-## Additional Resource <a name="additional"></a>
-- Presentation
-https://docs.google.com/presentation/d/1YXygd4gBerj14SOamKhkprre9bx5oJdjxJ6GZWQTzq8/edit?usp=sharing
-
-To view the GitHub repo for this website, click [here](https://github.com/SikaiWang224/teamproject-).
+Sz-An Wang is a student at UCI majoring 
